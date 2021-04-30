@@ -1,17 +1,33 @@
-<div align="center">
+# Book Search Engine
 
-![GitHub top language](https://img.shields.io/github/languages/top/deannapi/book-search-engine)
-![GitHub repo size](https://img.shields.io/github/repo-size/deannapi/book-search-engine)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/deannapi/book-search-engine)
-![GitHub](https://img.shields.io/github/license/deannapi/book-search-engine)
-![GitHub last commit](https://img.shields.io/github/last-commit/deannapi/book-search-engine)
+## Description
 
-![](mern-image.jpg)
-
-# :books: Book Search Engine :books:
 A Google Books API search engine built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API.
 
-[Find Books Here!](https://books-from-google.herokuapp.com/)
+[Live URL](https://book-search-engine-95.herokuapp.com/)
 
-![](screenshot-book.jpg)
+## Table of Contents
 
+- [Description](#description)
+- [Table of Contents](#table-of-contents)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Questions](#questions)
+
+## Installation
+
+1. Clone repo and open Terminal
+2. `npm i` for Dependencies
+
+## Usage
+
+1. `npm start` to start the app
+
+## Contributing
+
+[Richard Lim](https://github.com/Lim95)
+
+## Questions
+
+Contact me with any questions: [email](mailto:sungjoon.lim@gmail.com) , [GitHub](https://github.com/Lim95)<br />
